@@ -6,6 +6,6 @@ The equation can be written in parametric form using the trigonometric functions
     y = b + r sin ⁡ t {\displaystyle y=b+r\,\sin t\,} y = b+r\,\sin t\,</h5>
     
     
-    <img src="https://github.com/mohandsakr/try-to-play-and-create-some-animation./blob/master/draw%20%20animation%20circle%20with%20lines/drawCircleOutput.PNG" >
+![]("https://github.com/mohandsakr/try-to-play-and-create-some-animation./blob/master/draw%20%20animation%20circle%20with%20lines/drawCircleOutput.PNG" )
 
 
